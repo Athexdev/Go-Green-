@@ -17,7 +17,7 @@ Follow these steps to bring your contribution graph to life:
 1. **Clone this repository**
 ```bash
 git clone https://github.com/Athexdev/Hackz.git
-cd goGreen
+cd Hackz
 ```
 3. **Set up your project**
 Initialize a new Node.js project:
